@@ -84,10 +84,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-### Additional Notes:
-- Don’t forget to add the dataset (`output.csv`) and modify any data paths accordingly in the code.
-- You may also want to provide details on the dataset in a separate section if necessary.
 
-Let me know if you want to customize or extend this README!
+
+
